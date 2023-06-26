@@ -1,0 +1,4 @@
+/* update the cross button color */
+.header-v2-top-right-cross svg {
+    background: orange !important;
+  }
